@@ -1,0 +1,5 @@
+@media(max-width: 1075px){
+    .principal-section{
+        grid-gap: 0  5px;
+    }
+}

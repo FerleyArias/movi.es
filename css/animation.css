@@ -1,0 +1,12 @@
+.movie-description:hover{
+    animation-duration: 2s;
+    animation-fill-mode: both;
+    animation-name: slideInUp;
+}
+
+@keyframes slideInUp{
+    to{
+        height: 100%;
+        font-size: 20px;
+    }
+}
